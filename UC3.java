@@ -21,5 +21,7 @@ public class UC3 {
         // 3. Display unique IDs
         System.out.println("Unique Bogie IDs:");
         System.out.println(bogieIds);
+
+        // there is some ending
     }
 }
